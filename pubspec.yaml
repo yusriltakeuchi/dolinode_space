@@ -1,0 +1,19 @@
+name: dolinode_space
+description: Client library to interact with the DigitalOcean & Linode Spaces API.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  crypto: ^3.0.0
+  http: ^0.13.0
+  meta: ^1.3.0
+  xml: ^6.1.0
+
+dev_dependencies:
+  ini: ^2.1.0-beta
+  test: ^1.0.0
+  flutter_lints: ^2.0.0
