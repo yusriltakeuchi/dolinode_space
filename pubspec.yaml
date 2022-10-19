@@ -1,7 +1,7 @@
 name: dolinode_space
 description: Client library to interact with the DigitalOcean & Linode Spaces API.
 version: 0.0.1
-homepage:
+homepage: https://github.com/yusriltakeuchi/dolinode_space
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
