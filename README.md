@@ -14,7 +14,7 @@ DOLinodeSpaces spaces = DOLinodeSpaces(
     region: "ap-south-1",
     accessKey: "accessKey",
     secretKey: "secretKey",
-    provider: provider,
+    provider: Providers.linodeobject,
 );
 ```
 
